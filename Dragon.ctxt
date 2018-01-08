@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dragon()
+comment0.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Dragon\r\n
+comment1.params=s\ c\ bodyType\ x\ y\ talk\ specialMove
+comment1.target=Dragon(int,\ java.awt.Color,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Overloaded\ Constructors\ go\ here\r\n
+comment2.params=talk\ g
+comment2.target=void\ getTalk(java.lang.String,\ java.awt.Graphics)
+comment2.text=\ \r\n\ Accessor\ Methods\r\n
+comment3.params=g\ talk
+comment3.target=void\ drawDragon(java.awt.Graphics,\ java.lang.String)
+comment3.text=\r\n\ drawDragon(Graphics\ g)\r\n\ Starting\ of\ drawing,\ complete\ your\ Dragon....\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\r\n
+numComments=5
